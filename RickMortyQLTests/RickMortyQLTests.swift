@@ -6,6 +6,7 @@
 //
 
 import XCTest
+
 @testable import RickMortyQL
 
 class RickMortyQLTests: XCTestCase {
